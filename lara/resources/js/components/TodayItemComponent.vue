@@ -22,7 +22,7 @@
                 }}</router-link></span
             >
             <span class="time"
-                ><img src="/Images/clock.svg" alt="clock" /><time
+                ><img src="/images/clock.svg" alt="clock" /><time
                     :datetime="time"
                     >{{ formattedDate }}</time
                 ></span
